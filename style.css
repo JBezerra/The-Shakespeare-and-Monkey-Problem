@@ -1,0 +1,23 @@
+h2{
+    font-family: "Courier";
+}
+h3{
+  font-family: "Courier";
+}
+p{
+    font-family: "Courier";
+}
+
+
+.stats, .all, .best {
+  font-family: "Courier";
+  
+}
+
+.best {
+    font-size: 48;
+}
+  
+.stats {
+    font-size: 24;
+}
