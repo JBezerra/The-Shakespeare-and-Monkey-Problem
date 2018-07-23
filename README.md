@@ -1,9 +1,9 @@
 # The Shakespeare and Monkey Problem
 Evolutionary Computing - Genetic Algorithm
-
+![Monkeys](https://blogs.illinois.edu/files/25/14943/268.jpg)
 ## Why this algorithm is necessary?
 
-If you had a monkey typing at a typewritter randomly for an inifinity amount of time, eventually this monkey would typeout the completes works of Shakespeare
+If you had a monkey typing at a typewriter randomly for an inifinity amount of time, eventually in some moment of the time this monkey would type out the completes works of Shakespeare.
 
 Okay, simplifing the problem, let's say the only thing we want from the monkey is  
 
