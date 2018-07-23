@@ -38,6 +38,8 @@ One way to solve this is with an algorithm that:
 
 That concept that we call **Genetic Algorithm**
 
+[Try by yourself here](https://jbezerra.github.io/The-Shakespeare-and-Monkey-Problem/index.html)
+
 ![Solution](https://media.giphy.com/media/L07I25uEUqkTvVoBe7/giphy.gif)
 
 Have some fun and spread the word =P
